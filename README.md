@@ -40,6 +40,8 @@ start_server.bat #можно найти в папке проекта
 1isd-corp-chat/
 ├── client.py        # Основной файл приложения
 ├── server.py        # Серверный файл приложения
+├── start_client.bat # Файл запуска клиента
+├── start_server.bat # Файл запуска сервера
 ├── README.md        # Документация
 └── .gitignore       # Игнорируемые файлы
 ```
